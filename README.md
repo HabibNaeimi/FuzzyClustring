@@ -1,4 +1,4 @@
-# FuzzyClustring
+# Fuzzy Clustring
  Design of Fuzzy System Using Nearest Neighborhood Clustering Method for Adaptive Control of
 Nonlinear Systems.
 - Designing a nonlinear system identifier.
