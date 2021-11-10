@@ -6,5 +6,5 @@ Nonlinear Systems.
 - Algorithm implementation in MATLAB.
 
 
-This programm developed as a course project for Fuzzu systems course by Habibollah Naeimi.
+This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
 
