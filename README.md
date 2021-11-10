@@ -8,3 +8,14 @@ Nonlinear Systems.
 
 This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
 
+### TheF.m
+Calculates the F parameter in offline clustring mode.
+
+### OnlineF.m
+Calculates the F parameter in online clustring mode.
+
+### Clustring.m
+Main program.
+
+### Clustring Report.pdf
+Report and further details.
