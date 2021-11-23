@@ -1,4 +1,4 @@
-# Fuzzy Clustring Algorithem
+# Fuzzy Clustering Algorithem
  Design of Fuzzy System Using Nearest Neighborhood Clustering Method for Adaptive Control of
 Nonlinear Systems.
 - Designing a nonlinear system identifier.
@@ -6,7 +6,7 @@ Nonlinear Systems.
 - Algorithm implementation in MATLAB.
 
 
-This program was developed as a course project for Fuzzy systems course by Habibollah Naeimi.
+This program was developed as a course project for the Fuzzy systems course by Habibollah Naeimi.
 
 ### TheF.m
 Calculates the F parameter in offline clustring mode.
